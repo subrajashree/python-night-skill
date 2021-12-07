@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a,b,c
+printf("\nEnter a number :");
+scanf("%d",&a);
+printf("\nEnter a number :");
+scanf("%d",&b);
+printf("the given relation is a>b");
+
+clrser();
+c=a>b;
+printf("\nThe relation of %d and %d is %d" a,b,a>b);
+getch();
+}
